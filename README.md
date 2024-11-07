@@ -1,16 +1,14 @@
-## Hi there 👋
+## hey, im mimi!
 
-<!--
-**mimibun/mimibun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a junior developer and overall nerd looking to create (*and contribute to!*) cool and exciting things! ✨
 
-Here are some ideas to get you started:
+currently my areas of interest are pretty much anything, but especially:
+- linux 🐧
+- raspberry pi and homelab kind of things 🖥️
+- python 🐍
+- small IoT kind of things (especially things that blink) 🌈
+- design of user interfaces/experiences 🖱️
+- cool hacks ⌨️
+- game development and many more! 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm very eager to learn more, and especially want to look more into things like rust, c# and java, low level programming, homelab and networking, docker, electronics and many more :)
