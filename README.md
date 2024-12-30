@@ -11,4 +11,4 @@ currently my areas of interest are pretty much anything, but especially:
 - cool hacks ⌨️
 - game development and many more! 🎮
 
-i'm very eager to learn more, and especially want to look more into things like rust, c# and java, low level programming, homelab and networking, docker, electronics and many more :)
+i'm very eager to learn more, and especially want to look more into things like rust, c# and java, nixos, low level programming, homelab and networking, docker, electronics and many more :)
