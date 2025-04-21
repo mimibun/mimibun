@@ -1,6 +1,6 @@
 ## hey, im mimi!
 
-i'm a junior developer and overall nerd looking to create (*and contribute to!*) cool and exciting things! ✨
+i'm a silly person doing silly things (sometimes)looking to create (*and contribute to!*) cool and exciting things! ✨
 
 currently my areas of interest are pretty much anything, but especially:
 - linux 🐧
